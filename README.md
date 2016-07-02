@@ -6,4 +6,4 @@ I think I am B2.
 
 in the beginning of line 7.
 
-in the beginning of line 7.
+in the beginning of line 7.  "Both: Conflict resolving time!"
